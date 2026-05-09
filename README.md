@@ -62,10 +62,10 @@ The dashboard transforms raw transactional data into actionable business insight
 ## Dashboard Preview
 
 ### Main Dashboard
-[![Dashboard Overview](Dashboard%20Screenshots/dashboard-overview.jpg)](https://github.com/ammoferi/shopify-sales-customer-analytics-dashboard/blob/main/dashboard-overview.jpg)
+![Detail Page](Dashboard%20Screenshots/overview-page.png)
 
 ### Detail Analysis Page
-![Detail Page](Dashboard%20Screenshots/detail-page.jpg)
+![Detail Page](Dashboard%20Screenshots/detail-page.png)
 
 ---
 
