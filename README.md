@@ -1,9 +1,9 @@
 # SHOPIFY | SALES & CUSTOMER ANALYTICS DASHBOARD
 
 ## Overview
-This project is an interactive Power BI dashboard developed to analyze Shopify sales performance, customer behavior, payment methods, product performance, and regional sales trends.
+This project is an interactive Power BI dashboard developed to analyze Shopify sales performance, customer behavior, payment methods, product performance, and regional sales trends using transactional sales data.
 
-The dashboard transforms raw transactional data into actionable business insights through KPI reporting, dynamic filtering, drill-through analysis, and interactive visualizations.
+The dashboard transforms raw business data into actionable insights through KPI reporting, dynamic filtering, drill-through analysis, and interactive visualizations.
 
 ---
 
@@ -26,6 +26,18 @@ The dashboard transforms raw transactional data into actionable business insight
 
 ---
 
+## Data Preparation
+The dataset was cleaned and transformed using Power Query before dashboard development.
+
+Key preparation steps included:
+- Data cleaning and formatting
+- Creating calculated columns
+- Developing DAX measures
+- Building data relationships
+- Optimizing the data model for reporting
+
+---
+
 ## Key KPIs
 - Net Sales: $4.18M
 - Total Quantity Sold: 7,534
@@ -43,6 +55,7 @@ The dashboard transforms raw transactional data into actionable business insight
 - Dynamic slicers and filtering
 - Drill-through transaction analysis
 - Navigation pane between report pages
+- Custom filter pane
 - Regional sales analysis
 - Product performance tracking
 - Payment gateway analysis
@@ -56,6 +69,8 @@ The dashboard transforms raw transactional data into actionable business insight
 - Running Shoes were the highest-performing product category
 - Repeat customer rate reached 46%
 - Certain regions significantly outperformed others in net sales
+- Shopify Payments and PayPal dominated payment gateway usage
+- Product sales performance varied across categories
 
 ---
 
@@ -67,6 +82,17 @@ The dashboard transforms raw transactional data into actionable business insight
 ### Detail Analysis Page
 ![Detail Page](detail-analysis-page.png)
 
+---
+
+## Skills Demonstrated
+- Business Intelligence
+- Data Analytics
+- Dashboard Development
+- KPI Reporting
+- DAX Calculations
+- Data Storytelling
+- Interactive Reporting
+- Data Visualization
 
 ---
 
