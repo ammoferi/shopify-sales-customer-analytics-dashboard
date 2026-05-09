@@ -62,10 +62,11 @@ The dashboard transforms raw transactional data into actionable business insight
 ## Dashboard Preview
 
 ### Main Dashboard
-![Detail Page](Dashboard%20Screenshots/overview-page.png)
+![Dashboard Overview](Dashboard%20Screenshots/dashboard-overview.png)
 
 ### Detail Analysis Page
-![Detail Page](Dashboard%20Screenshots/detail-page.png)
+![Detail Page](Dashboard%20Screenshots/detail-analysis-page.png)
+
 
 ---
 
